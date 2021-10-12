@@ -8,3 +8,14 @@ kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 For more dataset information, please go through the following link,
 http://ai.stanford.edu/~amaas/data/sentiment/
+
+
+
+## Solutions : 
+  **Movie Review Sentiment Analysis Using Bags of words(CountVectorizer)**
+    * text preprocessed 
+    * Review & Label converted to array
+    * Logistic regression , naivebaise canbe used to classification
+    
+    
+  
